@@ -16,7 +16,7 @@ stack(
   // s("[~ sd]*2").bank("RolandTR909") 
   //   .speed("0.84") // ~-3 semitones
   //   .distort("4:.7")
-  //   .hpf(200), // High-pass to avoid low-end clash
+  //   .hpf(200), // high-pass to avoid low-end clash
 
   // industrial hi-hats with velocity programming
   s("hh*16").bank("RolandTR909")
