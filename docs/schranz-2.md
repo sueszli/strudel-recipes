@@ -1,5 +1,3 @@
-Video: https://www.youtube.com/watch?v=0LsyAfe4YzU
-
 # Strudel for Authentic German Schranz Production
 
 Based on comprehensive analysis of Strudel's documentation, the platform provides excellent capabilities for creating authentic German Schranz music with all the technical requirements specified in your production manual. **Strudel's TR-909 sample access, aggressive effects processing, and sophisticated pattern programming system make it well-suited for producing the harsh, mechanical grooves characteristic of German Schranz**.
