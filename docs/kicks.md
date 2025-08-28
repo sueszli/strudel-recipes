@@ -10,12 +10,5 @@ Distinct kicks:
 - Vinka Wydro
 
 ```
-if you were to describe the distinct sound of the kicks from these artists to a music producer who had never heard them before as technical as possible, such that they're able to reproduce it faithfully in their own work, how would you exactly describe the sound of the kick drum of these artists?
-
-- Sara Landry
-- Holy Priest
-- AZYR
-- Nicolas Julian
-- Nikolina
-- Vinka Wydro
+Provide a single, detailed technical specification sheet that captures the common characteristics of the kick drums used by Sara Landry, Holy Priest, AZYR, Nicolas Julian, Nikolina, and Vinka Wydro. Assume the reader is a music producer who has never heard these artists before, but wants to faithfully reproduce the same type of kick sound in their own productions. Describe the kick in purely technical terms — transient shape, frequency ranges, sub/bass balance, saturation/distortion type, envelope behavior, dynamics, processing chain, and mixing context. The goal is to give exact instructions for recreating the signature kick sound these artists share in a quantitative and technical manner, rather than describing each one individually.
 ```
